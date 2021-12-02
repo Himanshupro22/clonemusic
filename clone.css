@@ -1,0 +1,168 @@
+
+ .Wallpaper-content{
+    position: absolute;
+   top: 23%;
+   left: 28%;
+}
+
+.logo {   
+       background-color: white;
+       height: 60px;
+       width: 60px;
+       border-radius: 50%;
+       text-align: center;
+       color: red;
+       margin-left: 40%;
+       font-size: 50px;
+}
+
+
+
+.heading{
+   font-size:36px ;
+   font-family: poppins ;
+   font-weight: 600 ;
+   font-style:normal ;
+   line-height: 1.53;
+   letter-spacing: normal ;
+   color: white;
+}
+
+.search{
+   text-align: center;
+   padding-right: 70px
+}
+.Selectbox{
+   width: 180px;
+   height: 30px;
+   font-size: 15px;
+   font-family: poppins;
+   font-weight: normal;
+   font-stretch: normal;
+   line-height: 1.53;
+   letter-spacing: normal;
+   color: #636f88;
+   font-style:normal ;
+   background-color: white ;
+   text-align: left;
+
+}
+
+
+.Searchbox{
+   width: 350px;
+   height: 33px;
+   font-size: 15px;
+   font-family: poppins;
+   font-weight: normal;
+   font-stretch: normal;
+   line-height: 1.53;
+   letter-spacing: normal;
+   color: #636f88;
+   font-style:normal ;
+   background-color: white ;
+   text-align: left;
+
+}
+
+.login {
+   position: absolute;
+   left: -55%;
+   top: -93%;
+   color: #ffffff;
+   padding-right: 15px
+}
+
+
+.item {
+    height: 90px;
+    width: 90px;
+    box-shadow: 0px 0px 12px 0 currentColor;
+    display: inline-block;
+    margin: 10px;
+    position: absolute;
+    top: 250px;
+    right: 820px;
+    border-radius: 30px;
+  
+}
+
+.item2 {
+   height: 90px;
+   width: 90px;
+   box-shadow: 0px 0px 12px 0 currentColor;
+   display: inline-block;
+   margin: 10px;
+   position: absolute;
+   top: 250px;
+   right: 820px;
+   position: absolute;
+   left: -15%;
+   border-radius: 30px;
+ 
+}
+.item3 {
+   height: 90px;
+   width: 90px;
+   box-shadow: 0px 0px 12px 0 currentColor;
+   display: inline-block;
+   margin: 10px;
+   position: absolute;
+   top: 250px;
+   right: 820px;
+   position: absolute;
+   left: 17%;
+   border-radius: 30px;
+ 
+}
+.item4 {
+   height: 90px;
+   width: 90px;
+   box-shadow: 0px 0px 12px 0 currentColor;
+   display: inline-block;
+   margin: 10px;
+   position: absolute;
+   top: 250px;
+   right: 820px;
+   position: absolute;
+   left: 50%; 
+   border-radius: 30px;
+ 
+}
+.style {
+   color: cornflowerblue;
+   font-size: 50px;
+   font-style: normal;
+   font-family: auto;
+   margin-left: 22px;
+}
+.information{
+   
+
+   position: absolute;
+   left: 92%;
+   top: 246%;
+   background: darksalmon;
+   padding: 85px;
+   font-size: -webkit-xxx-large;
+
+}
+.item-left{
+   display:inline-block;
+    width: 40%;
+    margin-left: 37px;
+    margin-top: 14px;
+}
+
+
+
+
+.item-right{
+   display: inline-block;
+   width: 55%;
+   vertical-align: top;
+   padding-top: 7px;
+   padding-left: 12px;
+   
+
+}
